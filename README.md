@@ -1,6 +1,3 @@
-#Recipe App
-Here could be your advertisement.
-
 ## Getting started
 1. Clone project from the GitHub;
 2. Use ```npm install``` in the terminal in oder to install required packages;
